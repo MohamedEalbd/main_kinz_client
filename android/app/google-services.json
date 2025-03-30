@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095418620195",
+    "project_id": "kanz-notifications",
+    "storage_bucket": "kanz-notifications.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095418620195:android:f01ee78787cd95a7920496",
+        "android_client_info": {
+          "package_name": "com.NIXT.kanz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbmOEq28_2s-aso8g8rFYFZGOImQAU_vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
